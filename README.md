@@ -3,7 +3,7 @@ This project houses all the links for the Dailymotion compilation of "Guys Getti
 
 Password: 000000
 
-1. https://www.dailymotion.com/video/k7fYvBMXNwFCY4xMziz?playlist=x7fko5
+1. https://www.dailymotion.com/video/x897gyj
 2. https://www.dailymotion.com/video/x897h2d
 3. <NA>
 4. https://www.dailymotion.com/video/x897h5v
